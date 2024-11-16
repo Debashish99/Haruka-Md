@@ -1,7 +1,7 @@
 {
   "name": "Haruka-Md",
   "version": "11.0.1",
-  "description": "whatsapp tob with multi device.",
+  "description": "whatsapp bot with multi device.",
   "main": "haruka.js",
   "directories": {
     "lib": "lib"
@@ -15,7 +15,7 @@
     "2022",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "𝓡𝓲𝓸(リオ)🍃🌸",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys" : "npm:baileys@^6.0.9",
